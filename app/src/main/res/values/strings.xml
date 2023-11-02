@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TBCHomeWorkFour</string>
+    <string name="hello">Hello!</string>
+    <string name="lets_introduce">lets introduce</string>
+    <string name="your_full_name">Your full name</string>
+    <string name="username">Username</string>
+    <string name="next">Next</string>
+</resources>
